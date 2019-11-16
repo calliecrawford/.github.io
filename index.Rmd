@@ -1,0 +1,16 @@
+```{r}
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="Callie_fish.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to breast cancer through my work as a Research Biostatistician at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/departments/epidemiology-biostatistics) in the department of Epidemiology & Biostatistics. 
+
+I graduated from the [College of Charleston](http://marinebiology.cofc.edu/) with a MS in Marine Biology in 2014. In 2016 I began working toward my PhD in Ecology and Evolutionary Biology at the [Flammang lab] (https://web.njit.edu/~flammang/) at the New Jersey Institute of Technology, where I am the biomechanics of terrestrial walking in balitorid loaches (hillstream loaches) in a phylogenomic context. These fishes have pelvic morphology which converges on some tetrapodal features allowing for tetrapod-like walking. Using muscular and skeletal morphology, biomechanics (EMG, Kinematics, and force transmission), and biorobotics, this research will inform our understanding of mechanisms underlying the convergent evolution of morphological innovation. My work is part of the NSF funded Rules of Life initiative, Phylogenomically-Based Bioinspired Robotic Model Approach to Address the Evolution of Terrestrial Locomotion.
+
+
+
+My full CV is available [here](CV-C.Crawford_new.pdf).
+```
+
+
